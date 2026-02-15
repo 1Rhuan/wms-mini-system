@@ -16,7 +16,7 @@ O projeto está sendo desenvolvido utilizando a metodologia ágil Scrum, com div
 
 - PHP
 - Laravel
-- SQLite
+- MySQL
 - Git / GitHub
 
 ## Objetivo
