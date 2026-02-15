@@ -2,6 +2,9 @@
 
 <h4 align="center">Projeto acadêmico desenvolvido para a disciplina de Gestão de Projetos – 7º Período.</h4>
 
+## Descrição
+A proposta visa simular um ambiente real de desenvolvimento, permitindo aos integrantes da equipe vivenciar desafios relacionados à gestão de tempo, divisão de responsabilidades, controle de qualidade e tomada de decisões estratégicas.
+
 ## Metodologia
 
 O projeto está sendo desenvolvido utilizando a metodologia ágil Scrum, com divisão em Sprints, reuniões de planejamento, revisão e retrospectiva.
