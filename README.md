@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[link-da-imagem](https://pub-8f75f475f378406db31f72c8fc06ec58.r2.dev/banner.png)" alt="WMS-MiniSystem Banner">
+  <img src="https://pub-8f75f475f378406db31f72c8fc06ec58.r2.dev/banner.png" alt="WMS-MiniSystem Banner">
 </p>
 
 
