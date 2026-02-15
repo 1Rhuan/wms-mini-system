@@ -1,4 +1,7 @@
-<h1 align="center"> WMS – Sistema Simplificado de Gestão de Armazéns </h1>
+<p align="center">
+  <img src="[link-da-imagem](https://pub-8f75f475f378406db31f72c8fc06ec58.r2.dev/banner.png)" alt="WMS-MiniSystem Banner">
+</p>
+
 
 <h4 align="center">Projeto acadêmico desenvolvido para a disciplina de Gestão de Projetos – 7º Período.</h4>
 
